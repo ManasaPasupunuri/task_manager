@@ -394,11 +394,4 @@ TaskForge was built to demonstrate:
 * Scalable backend organization
 * Responsive frontend engineering
 
----
 
-## Author
-
-Manasa Pasupunuri
-
-B.Tech Information Technology
-Sreenidhi Institute of Science and Technology
